@@ -14,8 +14,8 @@ def fifth_power(n):
 
 # Testing the square function
 def test_square():
-    assert square(2) == 4, "Test Failed: Square of 2 should be 4"
-    assert square(3) == 9, "Test Failed: Square of 3 should be 9"
+    assert square(2) == 4, "Test Failed: Square of 2 should be 4 "
+    assert square(3) == 9, "Test Failed: Square of 3 should be 9 "
 
 # Testing the cube function
 def test_cube():
